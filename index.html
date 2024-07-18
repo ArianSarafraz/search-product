@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-------------------Navigation------------------------>
+    <header class="header">
+      <h1 class="header-title">Product Filter</h1>
+      <form class="search-form" action="#">
+        <input
+          type="text"
+          id="search"
+          class="search-input"
+          placeholder="search product ..."
+          autocomplete="off"
+        />
+      </form>
+      <div class="buttons">
+        <button class="btn" data-filter="">All</button>
+        <button class="btn" data-filter="watch">Watch</button>
+        <button class="btn" data-filter="phone">Phone</button>
+        <button class="btn" data-filter="headset">Headset</button>
+        <button class="btn" data-filter="laptop">Laptop</button>
+        <button class="btn" data-filter="airpod">Airpod</button>
+      </div>
+    </header>
+    <!------------------------Products------------------------>
+
+    <section class="products-center">
+      <!-- <div class="product">
+        <div class="img-container">
+          <img src="images/product1.jpg" class="p-img" alt="" />
+        </div>
+        <div class="details">
+          <span class="price">7.99$</span>
+          <span class="p-name">shirt product</span>
+        </div>
+      </div> -->
+    </section>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

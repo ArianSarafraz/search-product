@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "laptop product",
+      "class": "laptop",
+      "price": 100.99,
+      "image": "images/product1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "laptop product",
+      "class": "laptop",
+      "price": 120.99,
+      "image": "images/product2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "laptop product",
+      "class": "laptop",
+      "price": 1780.99,
+      "image": "images/product3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "phone product",
+      "class": "phone",
+      "price": 1000.99,
+      "image": "images/product4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "phone product",
+      "class": "phone",
+      "price": 910.99,
+      "image": "images/product5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "phone product",
+      "class": "phone",
+      "price": 790.99,
+      "image": "images/product6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "airpod product",
+      "class": "airpod",
+      "price": 150.99,
+      "image": "images/product7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "airpod product",
+      "class": "airpod",
+      "price": 190.99,
+      "image": "images/product8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "headset product",
+      "class": "headphone",
+      "price": 900.99,
+      "image": "images/product9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "watch product",
+      "class": "watch",
+      "price": 500.99,
+      "image": "images/product10.jpg"
+    },
+    {
+      "id": 11,
+      "title": "watch product",
+      "class": "watch",
+      "price": 789.99,
+      "image": "images/product11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "headset product",
+      "class": "headphone",
+      "price": 699.99,
+      "image": "images/product12.jpg"
+    }
+  ]
+}
